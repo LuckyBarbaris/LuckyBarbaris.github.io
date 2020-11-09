@@ -1,0 +1,1 @@
+Фlert('This is scritpt!')
